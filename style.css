@@ -1,0 +1,71 @@
+body {
+    background-color: grey;
+}
+#logo {
+    height: 50px;
+    width: 150px;
+}
+#topNav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    background-color: yellow;
+    align-items: center;
+}
+#search {
+    width: 400px;
+}
+#profile {
+    margin-right: 30px;
+}
+#title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 30px;
+    border-color: black;
+}
+#like {
+    margin-top: 30px;
+    margin-right: 50px;
+}
+h3 {
+    background-color: aquamarine;
+    padding: 20px;
+    border-width: 5px;
+}
+#comment {
+    width: 450px;
+    height: 30px;
+}
+#main {
+    display: flex;
+    justify-content: center;
+}
+video {
+    width: 1000px;
+    margin-top: 50px;
+}
+
+#right {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+#siguiente {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    width: 400px;
+    height: 250px;
+}
+p {
+    font-size: 30px;
+    margin-left: 15px;
+}
